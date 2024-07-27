@@ -51,6 +51,9 @@ st.set_page_config(
     page_title="Campaign Helper"                    
   ,
     page_icon="📣"                    
+                      
+                                    
+                      
   ,
     layout="centered",
     initial_sidebar_state="collapsed",
@@ -59,7 +62,8 @@ st.set_page_config(
 # Add the Title
 st.markdown(
     "<h1 style='text-align: center; color: black;'>"
-    "💡Social Media Campaign Helper"                                                                                          
+    "📣Social Media Campaign Helper"                    
+                                                                                            
     "</h1>",
     unsafe_allow_html=True
 )
