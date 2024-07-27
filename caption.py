@@ -59,7 +59,7 @@ st.set_page_config(
 # Add the Title
 st.markdown(
     "<h1 style='text-align: center; color: black;'>"
-    " 💡 Social Media Campaign Helper 📣"                    
+    "💡Social Media Campaign Helper 📣"                    
                       
                       
                       
